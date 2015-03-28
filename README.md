@@ -5,3 +5,4 @@
   - fix-B
   -feature-C
   -feature-C-2
+  -feature-D@共同開発者B
